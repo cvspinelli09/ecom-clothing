@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ecom-clothing/static/css/main.34de6062.chunk.css",
+    "main.js": "/ecom-clothing/static/js/main.17256654.chunk.js",
+    "main.js.map": "/ecom-clothing/static/js/main.17256654.chunk.js.map",
+    "runtime-main.js": "/ecom-clothing/static/js/runtime-main.b8bce89a.js",
+    "runtime-main.js.map": "/ecom-clothing/static/js/runtime-main.b8bce89a.js.map",
+    "static/js/2.63b8f168.chunk.js": "/ecom-clothing/static/js/2.63b8f168.chunk.js",
+    "static/js/2.63b8f168.chunk.js.map": "/ecom-clothing/static/js/2.63b8f168.chunk.js.map",
+    "static/js/3.4e91fbc1.chunk.js": "/ecom-clothing/static/js/3.4e91fbc1.chunk.js",
+    "static/js/3.4e91fbc1.chunk.js.map": "/ecom-clothing/static/js/3.4e91fbc1.chunk.js.map",
+    "static/js/4.e711a9ca.chunk.js": "/ecom-clothing/static/js/4.e711a9ca.chunk.js",
+    "static/js/4.e711a9ca.chunk.js.map": "/ecom-clothing/static/js/4.e711a9ca.chunk.js.map",
+    "static/js/5.c17f2473.chunk.js": "/ecom-clothing/static/js/5.c17f2473.chunk.js",
+    "static/js/5.c17f2473.chunk.js.map": "/ecom-clothing/static/js/5.c17f2473.chunk.js.map",
+    "static/js/6.33a2ab6c.chunk.js": "/ecom-clothing/static/js/6.33a2ab6c.chunk.js",
+    "static/js/6.33a2ab6c.chunk.js.map": "/ecom-clothing/static/js/6.33a2ab6c.chunk.js.map",
+    "static/js/7.4d8fe672.chunk.js": "/ecom-clothing/static/js/7.4d8fe672.chunk.js",
+    "static/js/7.4d8fe672.chunk.js.map": "/ecom-clothing/static/js/7.4d8fe672.chunk.js.map",
+    "static/js/8.de4cd3fc.chunk.js": "/ecom-clothing/static/js/8.de4cd3fc.chunk.js",
+    "static/js/8.de4cd3fc.chunk.js.map": "/ecom-clothing/static/js/8.de4cd3fc.chunk.js.map",
+    "static/js/9.03dd6bd7.chunk.js": "/ecom-clothing/static/js/9.03dd6bd7.chunk.js",
+    "static/js/9.03dd6bd7.chunk.js.map": "/ecom-clothing/static/js/9.03dd6bd7.chunk.js.map",
+    "index.html": "/ecom-clothing/index.html",
+    "precache-manifest.2e67c19384e133262f4a2c8d8871a171.js": "/ecom-clothing/precache-manifest.2e67c19384e133262f4a2c8d8871a171.js",
+    "service-worker.js": "/ecom-clothing/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/ecom-clothing/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.63b8f168.chunk.js.LICENSE": "/ecom-clothing/static/js/2.63b8f168.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/ecom-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/ecom-clothing/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8bce89a.js",
+    "static/js/2.63b8f168.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.17256654.chunk.js"
+  ]
+}
